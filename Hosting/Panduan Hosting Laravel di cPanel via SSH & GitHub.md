@@ -152,3 +152,8 @@ Sekarang buka:
 https://namadomainmu.com
 ```
 Jika semua langkah benar, aplikasi Laravel kamu akan tampil dengan sempurna 🎉
+
+---
+
+✍️ **Dibuat oleh:** Muktashim Billah   
+📅 **Terakhir diperbarui:** 10 Oktober 2025  
