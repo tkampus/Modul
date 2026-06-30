@@ -1,0 +1,8 @@
+{
+    "workbench.editor.autoLockGroups": {
+        "vscode.audioPreview": true
+    },
+    "workbench.editorAssociations": {
+        "*.md": "vscode.markdown.preview.editor"
+    }
+}
