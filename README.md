@@ -44,6 +44,7 @@ Penjelasan singkat mengenai daftar modul.
 |---|---|---|
 | 1 | [Nama Modul](<Modul 1.md>) | Ringkasan materi |
 | 2 | [Nama Modul](<Modul 2.md>) | Ringkasan materi |
+| .. | [Mini Project](<Mini Project.md>) | Penjelasan Project |
 
 ---
 
@@ -142,6 +143,11 @@ Hasil:
 1. Soal pertama.
 2. Soal kedua.
 3. Soal ketiga.
+
+---
+
+Ditulis oleh: Muktashim Billah
+Terakhir diperbarui: YYYY-MM-DD
 ```
 
 ---
